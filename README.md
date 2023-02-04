@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm an Smart Contract/Blockchain Software Engineer.
+Wonders, dangers and magical mysteries await you.
 
 𝑰 ❤️ 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
 
