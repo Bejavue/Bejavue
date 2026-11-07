@@ -39,5 +39,5 @@ Tailscale · Plane · Langfuse · Next.js · Postgres
 ## Follow along
 
 Workflows, wins and failures from running a business with agents:
-[TikTok @epochzro](https://www.tiktok.com/@epochzro) · [X @BennyLison](https://x.com/BennyLison) ·
+[TikTok @epochzro](https://www.tiktok.com/@epochzro) · [X @epochzro](https://x.com/epochzro) ·
 [LinkedIn](https://www.linkedin.com/in/bejavue/)
